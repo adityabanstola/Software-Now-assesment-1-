@@ -1,3 +1,9 @@
+# Group Name: SYDN 02
+# Group Members:4
+# Aditya Banstola - S403120-
+# Sandesh Regmi - S407215
+# Aadesh Bhandari - S404328
+# Sher Yuldashev - S406057
 text = input("Enter your text: ")
 
 words = []

@@ -1,4 +1,10 @@
-# Task 2: Case and vowel breakdown
+# Group Name: SYDN 02
+# Group Members:4
+# Aditya Banstola - S403120-
+# Sandesh Regmi - S407215
+# Aadesh Bhandari - S404328
+# Sher Yuldashev - S406057
+# # Task 2: Case and vowel breakdown
 
 def case_vowel_breakdown(text):
     #Return a dictionary with case, vowel/consonant, and per-vowel counts
